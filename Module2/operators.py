@@ -1,137 +1,137 @@
-# Arithmetic Operators
+# # Arithmetic Operators
 
-a = 10
-b = 20
+# a = 10
+# b = 20
 
-sum = 20+10
+# sum = 20+10
 
-print(f"Result: {sum}")
+# print(f"Result: {sum}")
 
-# Subtraction
+# # Subtraction
 
-a = 30
-b = 10
+# a = 30
+# b = 10
 
-sub = a-b
+# sub = a-b
 
-print(f"Result: {sub}")
+# print(f"Result: {sub}")
 
-# Multiplication
-a = 30
-b = 10
+# # Multiplication
+# a = 30
+# b = 10
 
-mult = a*b
+# mult = a*b
 
-print(f"Result: {mult}")
+# print(f"Result: {mult}")
 
-# Division
-a = 30
-b = 10
+# # Division
+# a = 30
+# b = 10
 
-divi = a/b
+# divi = a/b
 
-print(f"Result: {divi}")
-
-
-# Modulus
-a = 30
-b = 10
-
-mod = a%b
-
-print(f"Result: {mod}")
+# print(f"Result: {divi}")
 
 
-# Floor Division
+# # Modulus
+# a = 30
+# b = 10
 
-a = 30
-b = 10
+# mod = a%b
 
-floor = a//b
-
-print(f"Result: {floor}")
-
+# print(f"Result: {mod}")
 
 
-# COMPARISON OPERATOR
+# # Floor Division
 
-# Stricly Equal To
-a = 10
-b = 2
+# a = 30
+# b = 10
 
-result = a == b
+# floor = a//b
 
-print(result)
-
-
-# Not Equal to 
-a = 10
-b = 2
-
-result = a != b
-
-print(result)
-
-
-# Greater Than
-a = 10
-b = 2
-
-result = a > b
-
-print(result)
-
-
-# Less Than 
-a = 10
-b = 2
-
-result = a < b
-
-print(result)
-
-
-# Less Than Or Equal to 
-a = 10
-b = 2
-
-result = a <= b
-
-print(result)
-
-
-# Greater Than  Or Equal to
-a = 10
-b = 2
-
-result = a >= b
-
-print(result)
+# print(f"Result: {floor}")
 
 
 
-# LOGICAL OPERATOR
-x = True
-y = False 
+# # COMPARISON OPERATOR
 
-print(x and y)
+# # Stricly Equal To
+# a = 10
+# b = 2
 
-# OR
-x = True
-y = False 
+# result = a == b
 
-print(x | y)
+# print(result)
 
-# NOT
-y = False 
 
-print(not y)
+# # Not Equal to 
+# a = 10
+# b = 2
 
-# EXPRESSION
-a = 10
-b = 20
+# result = a != b
 
-sum = 20+10
+# print(result)
 
-print(f"Result: {sum}")
+
+# # Greater Than
+# a = 10
+# b = 2
+
+# result = a > b
+
+# print(result)
+
+
+# # Less Than 
+# a = 10
+# b = 2
+
+# result = a < b
+
+# print(result)
+
+
+# # Less Than Or Equal to 
+# a = 10
+# b = 2
+
+# result = a <= b
+
+# print(result)
+
+
+# # Greater Than  Or Equal to
+# a = 10
+# b = 2
+
+# result = a >= b
+
+# print(result)
+
+
+
+# # LOGICAL OPERATOR
+# x = True
+# y = False 
+
+# print(x and y)
+
+# # OR
+# x = True
+# y = False 
+
+# print(x | y)
+
+# # NOT
+# y = False 
+
+# print(not y)
+
+# # EXPRESSION
+# a = 10
+# b = 20
+
+# sum = 20+10
+
+# print(f"Result: {sum}")
 
