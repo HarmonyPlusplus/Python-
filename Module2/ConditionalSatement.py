@@ -36,7 +36,7 @@
 # for fruit in fruits:
 #     print(fruit)
 
-# for i in range(1, 10):
+# for i in range(1,sudo apt install curl gnupg 10):
 #     print(i)
 
 # for i in range(10):
@@ -118,25 +118,25 @@
 #     total += totaldice
 # print(total)
 
-import random
+# import random
 
 
-balance = 50
-timebroke = 0
-timeswon = 0 
+# balance = 50
+# timebroke = 0
+# timeswon = 0 
 
-while balance > 0 and balance < 100:
-    game = random.randint(0,1)
-    if game == 1:
-        balance += 1
-        timeswon += 1
-        print(f"you won {balance}")
-    else:
-        balance -= 1
-        timebroke += 1
-        print(f"You failed {balance}")  
+# while balance > 0 and balance < 100:
+#     game = random.randint(0,1)
+#     if game == 1:
+#         balance += 1
+#         timeswon += 1
+#         print(f"you won {balance}")
+#     else:
+#         balance -= 1
+#         timebroke += 1
+#         print(f"You failed {balance}")  
 
-print("Game over! Final balance:", balance)
-print("You won", timeswon)
-print("you went broke", timebroke)      
+# print("Game over! Final balance:", balance)
+# print("You won", timeswon)
+# print("you went broke", timebroke)      
 
